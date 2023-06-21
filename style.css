@@ -1,9 +1,9 @@
 @font-face {
     font-family: "Bookean";
-    src: url("/Bookean-Regular.ttf");
-    src: local("/Bookean-Regular"),
-    url("/Bookean-Regular.woff2") format("woff2"),
-    url("/Bookean-Regular.woff") format("woff");
+    src: url('../Bookean-Regular.ttf');
+    src: local("../Bookean-Regular"),
+    url("../Bookean-Regular.woff2") format("woff2"),
+    url("../Bookean-Regular.woff") format("woff");
 }
 body {
     font-family: 'Montserrat Alternates', sans-serif;
